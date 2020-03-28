@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Udacity Single Screen App</string>
+    <string name="name">Imperial Palace, Rajkot</string>
+    <string name="address">Address: Dr Yagnik Road, Jagnath Plot, Rajkot, Gujarat 360001</string>
+    <string name="phone">Phone: 0281 248 0000</string>
+    <string name="details">In the business district of Rajkot, this elegant hotel with a courtyard atrium is 2 km from the historic artefacts at the Watson Museum, and 3 km from Rajkot Railway Station. Warmly decorated rooms come with free Internet access, flat-screen TVs and minibars. Upgraded rooms have sitting areas. Suites add features such as separate living rooms and whirlpool baths. Room service is available. Parking is free. Dining options include an upscale international restaurant, a 24-hour coffee shop and a pastry shop. There\'s also an outdoor pool with a poolside bar, plus a fitness room, a hot tub and a steam room.</string>
+</resources>
